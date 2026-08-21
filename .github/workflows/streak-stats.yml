@@ -20,7 +20,6 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           output-path: streak-stats.svg
           theme: tokyonight
-          hide-border: true
 
       - name: Commit changes
         run: |
