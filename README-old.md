@@ -10,10 +10,10 @@
 
 ### 🚀 About Me
 
-- 💼 Previously worked as **AI Intern – Project Associate @ Mondee Tech Pvt. Ltd.**, building FastAPI-based AI workflows for travel & retail automation
+- 🔭 Currently working as **AI Intern – Project Associate @ Mondee Tech Pvt. Ltd.**, building FastAPI-based AI workflows for travel & retail automation
 - 🧠 Integrated 7+ APIs (Gemini, Groq, Tavily, Amadeus, AviationStack, Ollama) for intelligent multi-step travel recommendation systems
 - 🎓 Final-year B.Tech (CSE – AI & Data Science) student at **IIIT Kottayam**, researching **Federated Learning for Privacy Detection** in medical imaging
-- 🛠️ Contributed to **Aarna Ecosystem** as part of a team during my internship — an AI-powered travel & service management platform with agentic workflows and bulk onboarding pipelines
+- 🛠️ Building **Aarna Ecosystem**, a live AI-powered travel & service management platform with agentic workflows and bulk onboarding pipelines
 - 🌱 Currently deepening my skills in multi-agent orchestration, RAG pipelines, and scalable backend architecture
 - 🎤 Off-screen: Carnatic vocalist and former Music Club Sub-Lead at IIIT Kottayam
 
@@ -32,8 +32,6 @@
 **Frameworks & Libraries**
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
@@ -56,7 +54,6 @@
 
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square)
 
 ---
@@ -64,12 +61,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushh-05&show_icons=true&theme=tokyonight&count_private=true&token=YOUR_TOKEN" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushh-05&theme=tokyonight&token=YOUR_TOKEN" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushh-05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushh-05&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushh-05&layout=compact&theme=tokyonight&token=YOUR_TOKEN" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushh-05&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
@@ -90,11 +87,10 @@
 
 ### 🧩 Featured Projects
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| **Aarna Ecosystem** | Team project built during my internship — AI-powered travel & service management platform with auth, chat, KYC, onboarding, and bulk CSV/JSON pipelines | FastAPI, MongoDB, Redis, LangGraph, Google ADK, Docker | [Live Demo](https://aarna-ecosystem-ui-dev.aarna.global) |
-| **Fun Chat Cards 🎀** | Playful cherry-themed React + Vite web app powered by Groq API that generates fun, short AI-crafted social cards with themes, tone selector, and PNG export | React, Vite, Groq API, Framer Motion, Vanta.js, html2canvas | [GitHub](https://github.com/sushh-05/fun-chat-cards) · [Live Demo](https://fun-chat-cards.vercel.app/) |
-| **AI-Powered Lead Welcome Email Automation** | n8n workflow generating personalized AI welcome emails; cut manual outreach effort by ~90% | n8n, OpenRouter, Gmail API, Google Sheets | [GitHub](https://github.com/sushh-05/lead-welcome-automation) |
+| Project | Description | Stack |
+|---|---|---|
+| **Aarna Ecosystem** | Live AI-powered travel & service management platform with auth, chat, KYC, onboarding, and bulk CSV/JSON pipelines | FastAPI, MongoDB, Redis, LangGraph, Google ADK, Docker |
+| **AI-Powered Lead Welcome Email Automation** | n8n workflow generating personalized AI welcome emails; cut manual outreach effort by ~90% | n8n, OpenRouter, Gmail API, Google Sheets |
 
 ---
 
@@ -117,8 +113,8 @@
 
 <!--
 NOTE FOR SUSHMITHA:
-1. Replace "YOUR-LINKEDIN-HANDLE" with your actual LinkedIn username.
-2. Replace "YOUR_TOKEN" in the stats widget URLs with your personal access token (see earlier setup steps).
-3. This file must live in a public repo named exactly "sushh-05" (same as your GitHub username) for it to render on your profile page.
-4. Pin your best repos (Aarna Ecosystem, fun-chat-cards, lead-welcome-automation, federated learning project) via Profile > Customize your pins.
+1. Replace "YOUR-LINKEDIN-HANDLE" above with your actual LinkedIn username.
+2. This file must live in a public repo named exactly "sushh-05" (same as your GitHub username) for it to render on your profile page.
+3. Pin your best 4-6 repos (Aarna Ecosystem, lead-email-automation, federated learning project, etc.) via Profile > Customize your pins, so they show up right below this README.
+4. Keep commit activity visible — the stats widgets above pull live from your public contribution graph.
 -->
