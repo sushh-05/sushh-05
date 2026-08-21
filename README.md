@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Sushmitha Mani Thadi</h1>
-<h3 align="center">AI & Data Science Engineer | Generative AI · Multi-Agent Systems · RAG · Backend Engineering</h3>
+<h1 align="center">Hello! I'm Sushmitha Mani Thadi</h1>
+<h3 align="center">AI & Data Science Engineer | Generative AI | Multi-Agent Systems | RAG | Backend Engineering</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushh-05&label=Profile%20views&color=0e75b6&style=flat" alt="sushh-05" />
