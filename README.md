@@ -64,12 +64,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushh-05&show_icons=true&theme=tokyonight&count_private=true&token=YOUR_TOKEN" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushh-05&theme=tokyonight&token=YOUR_TOKEN" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats-nine-indol-69.vercel.app/api?username=sushh-05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats-mauve-delta-46.vercel.app/?user=sushh-05&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushh-05&layout=compact&theme=tokyonight&token=YOUR_TOKEN" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-nine-indol-69.vercel.app/api/top-langs/?username=sushh-05&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
 </p>
 
 ---
