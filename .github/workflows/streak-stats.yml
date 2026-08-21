@@ -1,4 +1,5 @@
 name: Update Streak Stats
+
 on:
   schedule:
     - cron: '0 0 * * *'
@@ -10,17 +11,21 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
+
       - name: Generate streak stats
-        uses: DenverCoder1/github-readme-streak-stats@master
+        uses: be-next/github-streak-stats-action@v1
         with:
-          user_id: YOUR_NUMERIC_USER_ID
-          output_path: streak-stats.svg
+          username: sushh-05
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: streak-stats.svg
           theme: tokyonight
+          hide-border: true
+
       - name: Commit changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
           git add streak-stats.svg
-          git diff --cached --quiet || git commit -m "Update streak stats"
+          git commit -m "Update streak stats" || exit 0
           git push
