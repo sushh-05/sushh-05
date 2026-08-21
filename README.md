@@ -65,7 +65,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats-nine-indol-69.vercel.app/api?username=sushh-05&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats-mauve-delta-46.vercel.app/?user=sushh-05&theme=tokyonight" alt="GitHub Streak" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=sushh-05&theme=tokyonight" alt="GitHub Streak" width="48%" />
 </p>
 
 <p align="center">
