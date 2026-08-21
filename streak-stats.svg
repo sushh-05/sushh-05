@@ -7,7 +7,7 @@
     .fire { fill: #70a5fd; }
   </style>
 
-  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#1a1b27" stroke-opacity="0"/>
+  <rect x="0.5" y="0.5" rx="4.5" width="494" height="194" fill="#1a1b27" stroke="#70a5fd" stroke-width="1"/>
 
   <!-- Total Contributions -->
   <g transform="translate(50, 48)">
